@@ -15,6 +15,10 @@ const getdatafromlocsto = () => {
 }
 
 function App() {
+     const [width, setWidth]   = useState(window.innerWidth);
+    if(width<=900){
+        alert("This application is a WEB-APPLICATION ,For better exprience open it on large screen or destop etc..")
+    }
     //main arry of object state
     const [tasks,
         setTasks] = useState(getdatafromlocsto());
