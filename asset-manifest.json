@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.712ccde0.css",
-    "main.js": "/static/js/main.a7f92934.js",
-    "static/js/787.c7090e3c.chunk.js": "/static/js/787.c7090e3c.chunk.js",
-    "index.html": "/index.html",
-    "main.712ccde0.css.map": "/static/css/main.712ccde0.css.map",
-    "main.a7f92934.js.map": "/static/js/main.a7f92934.js.map",
-    "787.c7090e3c.chunk.js.map": "/static/js/787.c7090e3c.chunk.js.map"
+    "main.css": "/OIBSIP_L2Task3-ToDoWebApp/static/css/main.712ccde0.css",
+    "main.js": "/OIBSIP_L2Task3-ToDoWebApp/static/js/main.0f4df153.js",
+    "static/js/787.c7090e3c.chunk.js": "/OIBSIP_L2Task3-ToDoWebApp/static/js/787.c7090e3c.chunk.js",
+    "index.html": "/OIBSIP_L2Task3-ToDoWebApp/index.html",
+    "main.712ccde0.css.map": "/OIBSIP_L2Task3-ToDoWebApp/static/css/main.712ccde0.css.map",
+    "main.0f4df153.js.map": "/OIBSIP_L2Task3-ToDoWebApp/static/js/main.0f4df153.js.map",
+    "787.c7090e3c.chunk.js.map": "/OIBSIP_L2Task3-ToDoWebApp/static/js/787.c7090e3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.712ccde0.css",
-    "static/js/main.a7f92934.js"
+    "static/js/main.0f4df153.js"
   ]
 }
