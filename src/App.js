@@ -13,6 +13,12 @@ const getdatafromlocsto = () => {
         return []
     }
 }
+window.addEventListener('load', (event) => {
+    console.log('page is fully loaded');
+    if (window.innerWidth <= 900) {
+        alert("This application is a WEB-APPLICATION ,For better exprience open it on large screen or destop etc..")
+    }
+});
 
 function App() {
      const [width, setWidth]   = useState(window.innerWidth);
